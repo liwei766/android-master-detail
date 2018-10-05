@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PushBox</string>
+
+    <string name="title">すまーとここ</string>
+
+    <string name="ex_type">種類N</string>
+    <string name="ex_title">お知らせタイトル</string>
+    <string name="ex_content">お知らせの内容概要</string>
+    <string name="ex_detail">お知らせの詳細が入ります。</string>
+
+    <string name="show">表示</string>
+    <string name="delete">消去</string>
+</resources>
